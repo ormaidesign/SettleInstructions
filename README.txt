@@ -1,3 +1,9 @@
+PLEAS RUN
+mvn package
+java -jar target/SettleInstructions-1.0.jar test.csv
+
+
+
 The process structure in nutshell
 
 -import instructions
